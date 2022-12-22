@@ -1,0 +1,43 @@
+.form {
+  top: 20px;
+  position: relative;
+}
+
+.form button {
+  color: white;
+  font: inherit;
+  cursor: pointer;
+  background-color: #6b7a54;
+  padding: 0.3rem 1rem;
+  border-radius: 10px;
+}
+
+.form button:hover {
+  background-color: #39570a;
+  border-color: #39570a;
+}
+
+.foodProduct {
+  display: flex;
+  justify-content: space-between;
+  margin: 2rem;
+  padding-bottom: 0.1rem;
+}
+
+.price {
+  color: #4b543d;
+  font-size: 1.5rem;
+  margin-top: 0.1rem;
+  font-weight: bold;
+}
+
+.foodProducts {
+  max-width: 50rem;
+  width: 60%;
+  margin: 2rem auto;
+}
+.loading {
+  text-align: center;
+  color: black;
+  font-size: 2rem;
+}

@@ -1,0 +1,147 @@
+.basket-products {
+  padding: 0;
+  font-size: 1rem;
+}
+
+.basketTotal {
+  padding: 0;
+  display: flex;
+  justify-content: space-between;
+  font-size: 2rem;
+}
+
+.do {
+  text-align: right;
+}
+
+.do button {
+  padding: 1rem;
+  border-radius: 13px;
+  margin-left: 1rem;
+}
+
+.do button:hover{
+  background-color: #4b543d;
+  border-color: #323829;
+}
+
+.basket-product {
+  padding: 1rem;
+  display: flex;
+  justify-content: space-between;
+  border-bottom: solid #4b543d 3px ;
+}
+
+.basket-product h2 {
+  margin: 0.5rem 0;
+  color: #363636;
+}
+
+.text {
+  font-weight: bold;
+  color: #000000;
+}
+
+.do {
+  display: flex;
+}
+
+.basket-product button:hover,
+.basket-product button:active {
+  background-color: #4b543d;
+  color: white;
+}
+
+.basket-product button {
+  font-weight: bold;
+  font-size: 2rem;
+  color: #000000;
+  height: 2.5rem;
+  width: 2.5rem;
+  border-radius: 9px;
+  cursor: pointer;
+  margin: 0.5rem;
+}
+
+.styles {
+  display: flex;
+  justify-content: flex-end;
+  gap: 2rem;
+}
+
+.styles button {
+  color: #456741FF;
+  border-radius: 10px;
+  padding: 0.7rem 2rem;
+}
+
+.styles button:hover,
+.styles button:active {
+  background-color: #edffe9;
+}
+
+.styles .send {
+  border: 1px solid #456741;
+  background-color: #456741;
+  color: white;
+}
+
+.styles .send:hover,
+.styles .send:active {
+  background-color: #456741;
+}
+
+.check {
+  margin-bottom: 1rem;
+}
+
+.check input {
+  width: 25rem;
+}
+.header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 5rem;
+  background-color: transparent;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 10%;
+  z-index: 10;
+}
+
+.logo{
+  position: relative;
+  width: 4rem;
+}
+
+.buttonH {
+  cursor: pointer;
+  font: inherit;
+  border: none;
+  box-shadow: 0 1px 10px rgba(1, 1, 1, 1);
+  background-color: #c6d3b0;
+  color: #000000;
+  padding: 10px 2rem;
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  border-radius: 25px;
+  font-weight: bold;
+  position: relative;
+  left: -10rem;
+}
+.actions {
+  text-align: right;
+}
+
+.amountShowing {
+  background-color: #4b543d;
+  color: #ffffff;
+  padding: 0.25rem 1rem;
+  border-radius: 25px;
+  margin-left: 1rem;
+  font-weight: bold;
+}

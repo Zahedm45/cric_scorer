@@ -1,0 +1,26 @@
+
+
+.Form{
+    text-align: center;
+    align-items: center;
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    background-color: #c6d3b0;
+}
+
+.submitBtn{
+    font-family: Cambria, Cochin, Georgia, Times, "Times New Roman", serif;
+    display: inline-block;
+    height: 2rem;
+    color: white;
+    background-color: #4b543d;
+    cursor: pointer;
+    font-size: 20px;
+}
+
+.add-rowSpace {
+    padding: 10px;
+}
+
+.input-text {
+    font-size: 20px;
+}

@@ -1,0 +1,72 @@
+2022-42-11 20:42:41.367 [main] ERROR Main - Error-logging is working!
+2022-42-11 20:42:41.372 [main] INFO  Main - Launching Application
+2022-45-11 20:45:29.118 [main] ERROR Main - Error-logging is working!
+2022-45-11 20:45:29.122 [main] INFO  Main - Launching Application
+2022-56-11 20:56:23.796 [main] ERROR Main - Error-logging is working!
+2022-56-11 20:56:23.801 [main] INFO  Main - Launching Application
+2022-10-12 14:10:41.304 [main] ERROR Main - Error-logging is working!
+2022-10-12 14:10:41.310 [main] INFO  Main - Launching Application
+2022-04-12 20:04:47.609 [main] ERROR Main - Error-logging is working!
+2022-04-12 20:04:47.615 [main] INFO  Main - Launching Application
+2022-09-12 20:09:59.985 [main] ERROR Main - Error-logging is working!
+2022-09-12 20:09:59.991 [main] INFO  Main - Launching Application
+2022-11-12 20:11:37.330 [http-nio-8080-exec-2] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.1.4.Final
+2022-11-12 20:11:37.547 [http-nio-8080-exec-2] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2022-11-12 20:11:37.563 [http-nio-8080-exec-2] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: org.postgresql.Driver
+2022-11-12 20:11:37.563 [http-nio-8080-exec-2] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:postgresql://pgtest.grp2.diplomportal.dk:5432/pg]
+2022-11-12 20:11:37.563 [http-nio-8080-exec-2] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=de88cff33a1d28c6, user=pg}
+2022-11-12 20:11:37.563 [http-nio-8080-exec-2] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-11-12 20:11:37.565 [http-nio-8080-exec-2] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2022-11-12 20:11:37.858 [http-nio-8080-exec-2] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-11-12 20:11:38.187 [http-nio-8080-exec-2] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.0.Final
+2022-11-12 20:11:38.801 [http-nio-8080-exec-2] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@23dd7b18] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-11-12 20:11:38.981 [http-nio-8080-exec-2] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-22-12 20:22:07.249 [main] ERROR Main - Error-logging is working!
+2022-22-12 20:22:07.256 [main] INFO  Main - Launching Application
+2022-22-12 20:22:32.201 [http-nio-8080-exec-2] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.1.4.Final
+2022-22-12 20:22:32.421 [http-nio-8080-exec-2] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2022-22-12 20:22:32.437 [http-nio-8080-exec-2] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: org.postgresql.Driver
+2022-22-12 20:22:32.437 [http-nio-8080-exec-2] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:postgresql://pgtest.grp2.diplomportal.dk:5432/pg]
+2022-22-12 20:22:32.437 [http-nio-8080-exec-2] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=de88cff33a1d28c6, user=pg}
+2022-22-12 20:22:32.438 [http-nio-8080-exec-2] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-22-12 20:22:32.440 [http-nio-8080-exec-2] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2022-22-12 20:22:32.707 [http-nio-8080-exec-2] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-22-12 20:22:33.038 [http-nio-8080-exec-2] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.0.Final
+2022-22-12 20:22:33.670 [http-nio-8080-exec-2] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@398b3cc1] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-22-12 20:22:33.835 [http-nio-8080-exec-2] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-22-12 20:22:33.921 [http-nio-8080-exec-2] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper - SQL Error: 0, SQLState: 23505
+2022-22-12 20:22:33.922 [http-nio-8080-exec-2] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper - ERROR: duplicate key value violates unique constraint "payment_pkey"
+  Detail: Key (customerid)=(orderId0.50379424196028) already exists.
+2022-22-12 20:22:33.924 [http-nio-8080-exec-2] INFO  org.hibernate.engine.jdbc.batch.internal.AbstractBatchImpl - HHH000010: On release of batch it still contained JDBC statements
+2022-23-12 20:23:35.727 [main] ERROR Main - Error-logging is working!
+2022-23-12 20:23:35.733 [main] INFO  Main - Launching Application
+2022-24-12 20:24:08.228 [http-nio-8080-exec-2] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.1.4.Final
+2022-24-12 20:24:08.556 [http-nio-8080-exec-2] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2022-24-12 20:24:08.570 [http-nio-8080-exec-2] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: org.postgresql.Driver
+2022-24-12 20:24:08.570 [http-nio-8080-exec-2] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:postgresql://pgtest.grp2.diplomportal.dk:5432/pg]
+2022-24-12 20:24:08.571 [http-nio-8080-exec-2] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=de88cff33a1d28c6, user=pg}
+2022-24-12 20:24:08.571 [http-nio-8080-exec-2] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-24-12 20:24:08.573 [http-nio-8080-exec-2] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2022-24-12 20:24:08.832 [http-nio-8080-exec-2] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-24-12 20:24:09.188 [http-nio-8080-exec-2] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.0.Final
+2022-24-12 20:24:09.806 [http-nio-8080-exec-2] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@2711c49c] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-24-12 20:24:09.973 [http-nio-8080-exec-2] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-24-12 20:24:10.061 [http-nio-8080-exec-2] WARN  org.hibernate.engine.jdbc.spi.SqlExceptionHelper - SQL Error: 0, SQLState: 23505
+2022-24-12 20:24:10.062 [http-nio-8080-exec-2] ERROR org.hibernate.engine.jdbc.spi.SqlExceptionHelper - ERROR: duplicate key value violates unique constraint "payment_pkey"
+  Detail: Key (customerid)=(orderId0.50379424196028) already exists.
+2022-24-12 20:24:10.063 [http-nio-8080-exec-2] INFO  org.hibernate.engine.jdbc.batch.internal.AbstractBatchImpl - HHH000010: On release of batch it still contained JDBC statements
+2022-24-12 20:24:32.137 [main] ERROR Main - Error-logging is working!
+2022-24-12 20:24:32.143 [main] INFO  Main - Launching Application
+2022-25-12 20:25:11.315 [http-nio-8080-exec-2] INFO  org.hibernate.Version - HHH000412: Hibernate ORM core version 6.1.4.Final
+2022-25-12 20:25:11.520 [http-nio-8080-exec-2] WARN  org.hibernate.orm.connections.pooling - HHH10001002: Using built-in connection pool (not intended for production use)
+2022-25-12 20:25:11.533 [http-nio-8080-exec-2] INFO  org.hibernate.orm.connections.pooling - HHH10001005: Loaded JDBC driver class: org.postgresql.Driver
+2022-25-12 20:25:11.533 [http-nio-8080-exec-2] INFO  org.hibernate.orm.connections.pooling - HHH10001012: Connecting with JDBC URL [jdbc:postgresql://pgtest.grp2.diplomportal.dk:5432/pg]
+2022-25-12 20:25:11.533 [http-nio-8080-exec-2] INFO  org.hibernate.orm.connections.pooling - HHH10001001: Connection properties: {password=de88cff33a1d28c6, user=pg}
+2022-25-12 20:25:11.533 [http-nio-8080-exec-2] INFO  org.hibernate.orm.connections.pooling - HHH10001003: Autocommit mode: false
+2022-25-12 20:25:11.535 [http-nio-8080-exec-2] INFO  org.hibernate.orm.connections.pooling - HHH10001115: Connection pool size: 20 (min=1)
+2022-25-12 20:25:11.790 [http-nio-8080-exec-2] INFO  SQL dialect - HHH000400: Using dialect: org.hibernate.dialect.PostgreSQLDialect
+2022-25-12 20:25:12.104 [http-nio-8080-exec-2] INFO  org.hibernate.validator.internal.util.Version - HV000001: Hibernate Validator 8.0.0.Final
+2022-25-12 20:25:12.681 [http-nio-8080-exec-2] INFO  org.hibernate.orm.connections.access - HHH10001501: Connection obtained from JdbcConnectionAccess [org.hibernate.engine.jdbc.env.internal.JdbcEnvironmentInitiator$ConnectionProviderJdbcConnectionAccess@23dd7b18] for (non-JTA) DDL execution was not in auto-commit mode; the Connection 'local transaction' will be committed and the Connection will be set into auto-commit mode.
+2022-25-12 20:25:12.845 [http-nio-8080-exec-2] INFO  org.hibernate.engine.transaction.jta.platform.internal.JtaPlatformInitiator - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+2022-29-12 20:29:39.912 [main] ERROR Main - Error-logging is working!
+2022-29-12 20:29:39.917 [main] INFO  Main - Launching Application

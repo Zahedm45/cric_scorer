@@ -1,0 +1,20 @@
+{"food1": {
+  "menu":"Chicken Sandwich",
+  "info" : "Chicken strips, mushrooms, bell pepper, tomato, curry dressing and mixed salad. Served with steak fries and mayonnaise.",
+  "price": 59},
+
+  "food2": {
+    "menu":"Shawarma with Kebab",
+    "info" : "Kebab meat, onion, cucumber, tomato and salad. Served with steak fries and mayonnaise.",
+    "price": 59},
+
+  "food3": {
+    "menu":"Mexi Burger",
+    "info":"Grilled ground beef, mixed salad, soft onions, jalapeños, salsa and guacamole. Served with fries, chili cheese tops, onion rings and chili mayo.",
+    "price":159},
+
+  "food4": {
+    "menu":"Crispy Chicken Burger",
+    "info":"Crispy chicken burger with crispy chicken, salad, mayonnaise, tomato and pickled cucumbers, served with fries and chili mayo.",
+    "price":149}
+}
